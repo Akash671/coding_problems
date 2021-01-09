@@ -1,0 +1,13 @@
+"""
+Hi i am Akash Kumar my small introduction is:
+
+Name      :    Akash Kumar
+Degree    :    B.Tech(hons.)
+Stream    :    Computer Science And Engineering
+Year      :    2018-2020
+Institute :    MIT Moradabad
+Country   :    India
+
+"""
+
+
